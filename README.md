@@ -34,10 +34,7 @@ reCAPTCHA adalah proyek implementasi mandiri **Google reCAPTCHA** untuk meningka
    ```
 
 ## 📸 Screenshot
-Berikut adalah tampilan dari implementasi reCAPTCHA:
-
-![Tampilan Form reCAPTCHA](screenshots/screenshot1.png)
-![Hasil Validasi](screenshots/screenshot2.png)
+Tampilan dari implementasi Google reCAPTCHA dapat diakses pada direktori /Screenshot/
 
 ## 🔥 Contoh Penggunaan
 Tambahkan kode berikut ke halaman HTML untuk mengintegrasikan reCAPTCHA:
