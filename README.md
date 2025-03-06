@@ -6,7 +6,7 @@ reCAPTCHA adalah proyek implementasi mandiri **Google reCAPTCHA** untuk meningka
 ## 🛠 Tech Stack
 - **Backend**: PHP
 - **Frontend**: HTML, CSS, JavaScript
-- **Keamanan**: Google reCAPTCHA v2/v3
+- **Keamanan**: Google reCAPTCHA v2
 - **Database**: MySQL (db_hash)
 
 ## 🚀 Fitur Utama
